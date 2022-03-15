@@ -11,7 +11,7 @@ wget -q https://raw.githubusercontent.com/stakira/OpenUtau/master/Logo/openutau.
 echo "Marking executable..."
 chmod +x ~/.local/lib/OpenUtau/OpenUtau
 echo "Adding to menu..."
-cp OpenUtau.desktop ~/.local/share/applications
+wget -q https://raw.githubusercontent.com/HitCoder9768/OpenUtau-Installer-Linux/main/OpenUtau.desktop -O ~/.local/share/applications/OpenUtau.desktop --show-progress
 echo "Removing temp files..."
 rm /tmp/ou.tar.gz
 echo "Done!"

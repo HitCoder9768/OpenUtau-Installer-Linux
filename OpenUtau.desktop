@@ -4,5 +4,5 @@ Version=0.0.632
 Type=Application 
 Exec=~/.local/lib/OpenUtau/OpenUtau
 Name=OpenUtau 
-Icon=~/.local/share/pixmaps/openutau.svg
+Icon=openutau
 Categories=AudioVideo;Audio;Midi;Multimedia;
