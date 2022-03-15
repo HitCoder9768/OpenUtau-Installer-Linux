@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8 
+Version=0.0.632
+Type=Application 
+Exec=~/.local/lib/OpenUtau/OpenUtau
+Name=OpenUtau 
+Icon=~/.local/share/pixmaps/openutau.svg
+Categories=AudioVideo;Audio;Midi;Multimedia;
