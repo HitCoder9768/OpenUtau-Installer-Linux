@@ -15,3 +15,9 @@ If the icon does not display, the easiest fix for this is to run
 sudo wget -q https://raw.githubusercontent.com/stakira/OpenUtau/master/Logo/openutau.svg -O /usr/share/pixmaps/openutau.svg
 ```
 This will require administrative privileges as it will add it to the root tree.
+
+## Uninstalling
+Equally as easy as installing:
+```
+source <(curl -s https://raw.githubusercontent.com/HitCoder9768/OpenUtau-Installer-Linux/main/uninstall.sh)
+```
